@@ -38,8 +38,9 @@ a {
     margin-left: 1rem; }
 .btn-call {
   display: inline-block;
-  font-size: 1.5em;	
-  margin: 1rem 1rem 1rem 25rem;
+  padding: 1.2em;
+  margin: 1rem 1rem 1rem 5rem;
+  font-size: 1.5em;
   color: #fff;
   background-color: rgb(238, 64, 86) !important;
   /* border-color: #fff;  border-style: solid;  border-width: 1px; */
