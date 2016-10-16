@@ -166,7 +166,7 @@ a:hover {
 
 .page-header {
   color: #fff;
-  text-align: center;
+  text-align: center !important;
 }
 
 @media screen and (min-width: 64em) {
@@ -190,6 +190,7 @@ a:hover {
 @media screen and (min-width: 64em) {
   .project-name {
     font-size: 3.25rem;
+    text-align: center !important;
   }
 }
 
@@ -207,8 +208,9 @@ a:hover {
 
 .project-tagline {
   margin-bottom: 2rem;
+  text-align: center !important;
   font-weight: normal;
-  opacity: 0.9;
+  opacity: 0.975;
 }
 
 @media screen and (min-width: 64em) {
