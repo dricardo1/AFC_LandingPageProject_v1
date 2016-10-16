@@ -49,7 +49,7 @@ a:hover {
 
 .btn {
   display: inline-block;
-  margin: 1rem 20rem;
+  margin: 1.5rem 0 0 21.25rem;
   padding: 0.095em 1.095em;
   font-size: 1.5em;
   color: #fff;
@@ -242,6 +242,7 @@ a:hover {
 .main-content p {
   margin-bottom: 1em;
   margin-left: 1em;
+  text-align: center;
 }
 
 .main-content code {
