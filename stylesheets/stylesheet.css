@@ -56,7 +56,7 @@ a {
     margin: .8rem;
     font-size: 1.5em;
     color: #fff;
-    background-color: rgb(238, 64, 86) !important;
+    background-color:  rgb(195, 0, 0) !important
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
