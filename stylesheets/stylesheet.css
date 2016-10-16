@@ -80,7 +80,7 @@ a:hover {
   display: inline-block;
   padding: .0875em 1em;
   margin: .8rem;
-  margin-left: 4rem;
+  margin-left: 6.5rem;
   font-size: 1.5em;
   color: #fff;
   background-color: rgb(195, 0, 0) !important;
@@ -506,6 +506,6 @@ p {
 }
 
 #form {
-  margin: .2rem;
+  margin: .2rem 0 .2rem 3rem;
   padding: 1.25rem;
 }
