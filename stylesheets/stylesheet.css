@@ -1,7 +1,9 @@
 I* {
   box-sizing: border-box; }
-
-
+img {
+    margin: .25rem 1rem;
+    width: 130px;
+}
 blockquote {
 	margin: 5rem;
 	font-family: Verdana, Geneva, sans-serif;
