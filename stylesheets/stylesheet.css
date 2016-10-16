@@ -49,7 +49,7 @@ a:hover {
 
 .btn {
   display: inline-block;
-  margin: 1.5rem 0 0 21.25rem;
+  margin: 1.5rem 0 0 21.5rem;
   padding: 0.095em 1.095em;
   font-size: 1.5em;
   color: #fff;
@@ -459,7 +459,7 @@ article {
 h1 {
   top: 1%;
   width: auto;
-  font-size: 4em !important;
+  font-size: 4em;
   letter-spacing: 3px;
   color: #fff;
   font-family: "Libre Baskerville", "Open Sans", Verdana, Geneva, sans-serif;
