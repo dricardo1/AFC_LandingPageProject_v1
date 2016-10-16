@@ -28,7 +28,7 @@ a {
 .btn {
   display: inline-block;
   margin: 1rem 1rem 1rem 22rem;
-  padding: .5em 1em;
+  padding: .5em;
   font-size: 1.5em;
   color: #fff;
   background-color: rgb(238, 64, 86) !important;
@@ -78,10 +78,10 @@ a {
   -o-animation: bounce .5s infinite alternate;
   -moz-animation: bounce .5s infinite alternate;
   animation: bounce .5s infinite alternate;
-  -webkit-animation-iteration-count: 4;
-  -o-animation-iteration-count: 4;
-  -moz-animation-iteration-count: 4;
-  animation-iteration-count: 4;
+  -webkit-animation-iteration-count: 2;
+  -o-animation-iteration-count: 2;
+  -moz-animation-iteration-count: 2;
+  animation-iteration-count: 2;
 }
 @-webkit-keyframes bounce {
   to { transform: scale(1.2); }
