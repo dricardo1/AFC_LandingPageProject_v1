@@ -400,9 +400,11 @@ a:hover {
   border-top: solid 1px #FFF;
 }
 
+
 .site-footer-owner {
-  display: block;
-  font-weight: bold;
+    display: block;
+    font-weight: bold;
+    margin-left: 1em 13em;
 }
 
 .site-footer-credits {
@@ -411,7 +413,8 @@ a:hover {
 
 @media screen and (min-width: 64em) {
   .site-footer {
-    font-size: 1rem;
+    font-size: .9rem;
+    margin-left: 1em 10em;
   }
 }
 
