@@ -7,7 +7,7 @@ body {
   font-family: "Verdana", " Geneva", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #fff; }
 
 h3 {
 	font-family:   "Libre Baskerville", "Open Sans",Verdana, Geneva, sans-serif;
@@ -43,17 +43,17 @@ pre {
 }
 
 a {
-  color: #1e6bb8;
+  color: #FFF;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: none; }
 
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
+  color: blue;
   background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: #fff;
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -145,31 +145,31 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #FFF; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
   padding: 2px 4px;
   font-family: Verdana,Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
-  color: #383e41;
-  background-color: #f3f6fa;
+  color: #FFF;
+  background-color: #FFF;
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
   font: 1rem Verdana,Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #567482;
+  color: #FFF;
   word-wrap: normal;
-  background-color: #f3f6fa;
+  background-color: #FFF;
   border: solid 1px #dce6f0;
   border-radius: 0.3rem; }
   .main-content pre > code {
     padding: 0;
     margin: 0;
     font-size: 0.9rem;
-    color: #567482;
+    color: #FFF;
     word-break: normal;
     white-space: pre;
     background: transparent;
@@ -202,7 +202,7 @@ a {
 .main-content blockquote {
   padding: 0 1rem;
   margin-left: 0;
-  color: #819198;
+  color: #FFF;
   border-left: 0.3rem solid #dce6f0; }
   .main-content blockquote > :first-child {
     margin-top: 0; }
@@ -233,7 +233,7 @@ a {
   height: 2px;
   padding: 0;
   margin: 1rem 0;
-  background-color: #eff0f1;
+  background-color: #FFF;
   border: 0; }
 
 @media screen and (min-width: 64em) {
@@ -256,14 +256,14 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #FFF; }
 
 .site-footer-owner {
   display: block;
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #fff; }
 
 @media screen and (min-width: 64em) {
   .site-footer {
