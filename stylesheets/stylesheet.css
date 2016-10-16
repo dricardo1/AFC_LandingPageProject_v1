@@ -46,6 +46,19 @@ a {
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
+.btn-guide {
+     display: inline-block;
+    padding: .0875em 1em;
+    margin: .8rem;
+    font-size: 1.5em;
+    color: #fff;
+    background-color: rgb(238, 64, 86) !important;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+.border-white {
+	border: 1px solid #fff;
+}
 
 .btn:hover, .btn-call:hover {
   color:  rgb(195, 0, 0) !important;
