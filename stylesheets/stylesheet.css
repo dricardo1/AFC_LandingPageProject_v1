@@ -302,8 +302,7 @@ article {
   bottom: 0;
   margin: 10px;
 }
-h1 {
-  position: RELATIVE;
+h1 {  
   top: 1%;
   width: auto;
   font-size: 36px !important;
