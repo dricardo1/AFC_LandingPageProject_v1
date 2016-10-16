@@ -327,7 +327,7 @@ h2 {
 }
 h3 {
 	font-family:   "Libre Baskerville", "Open Sans",Verdana, Geneva, sans-serif;
-	font-size: 2em;
+	font-size: 1.75em;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -343,5 +343,5 @@ p {
 }
 #form {
     margin: .2rem;
-    padding: .25rem;
+    padding: 1.25rem;
 }
