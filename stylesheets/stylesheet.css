@@ -50,6 +50,7 @@ a {
 
 .btn {
   display: inline-block;
+  margin-left: 2rem;
   margin-bottom: 1rem;
   color: #fff;
   background-color: rgb(195, 0, 0) !important;
@@ -136,10 +137,12 @@ a {
 .main-content img {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-  color: #FFF; }
+     margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: normal;
+    text-align: center;
+    color: #FFF;
+}
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
