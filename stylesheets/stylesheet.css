@@ -1,4 +1,4 @@
-* {
+I* {
   box-sizing: border-box; }
 
 body {
@@ -303,10 +303,10 @@ article {
   margin: 10px;
 }
 h1 {
-  position: absolute;
-  top: 60%;
-  width: 100%;
-  font-size: 36px;
+  position: RELATIVE;
+  top: 1%;
+  width: auto;
+  font-size: 36px !important;
   letter-spacing: 3px;
   color: #fff;
   font-family: "Libre Baskerville", "Open Sans", Verdana, Geneva, sans-serif;
