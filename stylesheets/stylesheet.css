@@ -27,7 +27,7 @@ a {
 
 .btn {
   display: inline-block;
-  margin: 1rem 1rem 1rem 25rem;
+  margin: 1rem 1rem 1rem 22rem;
   font-size: 1.5em;
   color: #fff;
   background-color: rgb(238, 64, 86) !important;
@@ -145,7 +145,9 @@ a {
     color: #FFF;
 }
 .main-content p {
-  margin-bottom: 1em; }
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
 .main-content code {
   padding: 2px 4px;
   font-family: Verdana,Consolas, "Liberation Mono", Menlo, Courier, monospace;
