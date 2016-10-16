@@ -42,8 +42,10 @@ a {
     padding: .0875em 1em;
     margin: 1rem;
     font-size: 1.5em;
-    color: #fff;
-    background-color: rgb(238, 64, 86) !important;
+    background-color: #;
+    color: #ffffff;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
@@ -62,8 +64,10 @@ a {
     padding: 3rem;
     border: 1px solid #fff;
 }
-
-.btn:hover, .btn-call:hover .bounce:hover {
+.btn-call:hover {
+  background-color:  rgb(195, 0, 0) !important;
+}
+.btn:hover, .bounce:hover {
   color:  rgb(195, 0, 0) !important;
   padding: .0875em 1em;
   text-decoration: none;
