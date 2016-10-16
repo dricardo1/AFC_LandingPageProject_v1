@@ -64,16 +64,15 @@ a {
     padding: 3rem;
     border: 1px solid #fff;
 }
-.btn:hover.btn-call:hover {
+.btn:hover, .btn-call:hover {
   background-color:  rgb(195, 0, 0) !important;	
 }
-.bounce:hover {
-  color:  rgb(195, 0, 0) !important;
+.bounce:hover  {
+  background-color:  rgb(195, 0, 0) !important;
+  color:  #fff !important;
   padding: .0875em 1em; 
   text-decoration: none;
-  background-color: #fff !important;
-  border-color: #fff;
-  
+   
   -webkit-animation: bounce .5s infinite alternate;
   -o-animation: bounce .5s infinite alternate;
   -moz-animation: bounce .5s infinite alternate;
