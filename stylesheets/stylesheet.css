@@ -8,14 +8,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
-h1 {
-	font-family: "Libre Baskerville", "Open Sans", Verdana, Geneva, sans-serif;
-	font-size: 24px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
-}
+
 h3 {
 	font-family:   "Libre Baskerville", "Open Sans",Verdana, Geneva, sans-serif;
 	font-size: 14px;
@@ -283,3 +276,39 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+body {
+  margin: 0;
+  padding: 0;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#video-background {
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+}
+
+article {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 10px;
+}
+h1 {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  font-size: 36px;
+  letter-spacing: 3px;
+  color: #fff;
+  font-family: "Libre Baskerville", "Open Sans", Verdana, Geneva, sans-serif;
+  text-align: center;
+}
