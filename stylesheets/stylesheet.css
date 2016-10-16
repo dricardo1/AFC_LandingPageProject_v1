@@ -28,6 +28,7 @@ a {
 .btn {
   display: inline-block;
   margin: 1rem 1rem 1rem 22rem;
+  padding: .0875em 1em;
   font-size: 1.5em;
   color: #fff;
   background-color: rgb(238, 64, 86) !important;
@@ -64,6 +65,7 @@ a {
 
 .btn:hover, .btn-call:hover .bounce:hover {
   color:  rgb(195, 0, 0) !important;
+  padding: .0875em 1em;
   text-decoration: none;
   background-color: #fff !important;
   border-color: #fff;
