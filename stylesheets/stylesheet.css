@@ -9,7 +9,7 @@ img {
 
 .afc {
     margin: .25rem -7.5rem;
-    width: 200px;
+    width: 200px !important;
 }
 
 input {
