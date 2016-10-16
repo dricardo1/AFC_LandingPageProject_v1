@@ -4,7 +4,7 @@ I* {
 
 img {
   margin: .25rem 1rem;
-  width: 119px;
+  width: 120px;
 }
 
 .afc {
@@ -144,7 +144,7 @@ a:hover {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .btn {
-     /* padding: 0.6rem 0.9rem; */    
+     /* padding: 0.6rem 0.9rem; */
     padding: 0.5rem !important;
     font-size: 0.9rem;
   }
@@ -412,7 +412,7 @@ a:hover {
 
 @media screen and (min-width: 64em) {
   .site-footer {
-    font-size: .9rem;   
+    font-size: .9rem;
   }
 }
 
