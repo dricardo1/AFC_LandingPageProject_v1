@@ -28,15 +28,27 @@ a {
 .btn {
   display: inline-block;
   margin: 1rem 1rem 1rem 25rem;
+  font-size: 3em;
   color: #fff;
-  background-color: rgb(195, 0, 0) !important;
+  background-color: rgb(238, 64, 86) !important;
+  /* border-color: #fff;  border-style: solid;  border-width: 1px; */
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+  .btn + .btn {
+    margin-left: 1rem; }
+.btn-call {
+  display: inline-block;
+  font-size: 3em;	
+  margin: 1rem 1rem 1rem 25rem;
+  color: #fff;
+  background-color: rgb(238, 64, 86) !important;
   /* border-color: #fff;  border-style: solid;  border-width: 1px; */
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
   .btn + .btn {
     margin-left: 1rem; }
 
-.btn:hover {
+.btn:hover, .btn-call:hover {
   color:  rgb(195, 0, 0) !important;
   text-decoration: none;
   background-color: #fff !important;
