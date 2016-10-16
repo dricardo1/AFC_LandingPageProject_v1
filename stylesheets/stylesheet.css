@@ -11,9 +11,7 @@ img {
     margin: .25rem -7.5rem;
     width: 200px !important;
 }
-.center {
-  margin: 1em 0 1em 4em;
-}
+
 input {
   line-height: normal;
   border-radius: .275rem;
@@ -404,7 +402,7 @@ a:hover {
 .site-footer-owner {
     display: block;
     font-weight: bold;
-    margin-left: 1em 13em;
+    margin: 1em 13em;
 }
 
 .site-footer-credits {
