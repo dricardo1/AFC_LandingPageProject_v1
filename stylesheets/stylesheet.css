@@ -62,11 +62,35 @@ a {
     border: 1px solid #fff;
 }
 
-.btn:hover, .btn-call:hover {
+.btn:hover, .btn-call:hover .bounce:hover {
   color:  rgb(195, 0, 0) !important;
   text-decoration: none;
   background-color: #fff !important;
-  border-color: #fff; }
+  border-color: #fff;
+  
+  -webkit-animation: bounce .3s infinite alternate;
+  -o-animation: bounce .3s infinite alternate;
+  -moz-animation: bounce .3s infinite alternate;
+  animation: bounce .3s infinite alternate;
+  -webkit-animation-iteration-count: 8;
+  -o-animation-iteration-count: 8;
+  -moz-animation-iteration-count: 8;
+  animation-iteration-count: 8;
+}
+@-webkit-keyframes bounce {
+  to { transform: scale(1.2); }
+}
+@-o-keyframes bounce {
+  to { transform: scale(1.2); }
+}
+@-moz-keyframes bounce {
+  to { transform: scale(1.2); }
+}
+@keyframes bounce {
+  to { transform: scale(1.2); }
+}
+
+}
 
 @media screen and (min-width: 64em) {
   .btn {
