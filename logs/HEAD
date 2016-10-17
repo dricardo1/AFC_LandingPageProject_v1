@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 80c36fc6c73721e19643bfedf67bb86053bd2409 Don Ricardo JR <dricardo1@gmail.com> 1476577533 -0400	clone: from https://github.com/dricardo1/AFC_LandingPageProject_v1.git
+80c36fc6c73721e19643bfedf67bb86053bd2409 b4b6778b70b0a3b9ea412dda464bc69d13e6cf22 Don Ricardo JR <dricardo1@gmail.com> 1476594689 -0400	commit: logo commit
+b4b6778b70b0a3b9ea412dda464bc69d13e6cf22 97e44e58fc7e1237be36507003cb0d8f6799e3a8 Don Ricardo JR <dricardo1@gmail.com> 1476594709 -0400	pull --progress --rebase --prune origin master: checkout 97e44e58fc7e1237be36507003cb0d8f6799e3a8
+97e44e58fc7e1237be36507003cb0d8f6799e3a8 78551e2824de9e914403856fa424180daa9987d9 Don Ricardo JR <dricardo1@gmail.com> 1476594713 -0400	pull --progress --rebase --prune origin master: logo commit
+78551e2824de9e914403856fa424180daa9987d9 78551e2824de9e914403856fa424180daa9987d9 Don Ricardo JR <dricardo1@gmail.com> 1476594715 -0400	rebase finished: returning to refs/heads/master
+78551e2824de9e914403856fa424180daa9987d9 bebb2882ecca46b5db523544f2d23adac388a6a7 Don Ricardo JR <dricardo1@gmail.com> 1476597797 -0400	commit: cinema
+bebb2882ecca46b5db523544f2d23adac388a6a7 c3ccb08a92d9fbfe1621128b504bf955d4569c37 Don Ricardo JR <dricardo1@gmail.com> 1476597814 -0400	pull --progress --rebase --prune origin master: checkout c3ccb08a92d9fbfe1621128b504bf955d4569c37
